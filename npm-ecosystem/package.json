@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "ts-node index.ts",
+    "start2": "ts-node index2.ts",
+    "start3": "ts-node index3/index.ts"
   },
   "keywords": [],
   "author": "",
